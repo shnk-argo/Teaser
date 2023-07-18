@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Panama';
+    src: url('Panama.otf') format('opentype');
+  }
+  
+  body {
+    font-family: 'Panama', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+  }
+  
+  ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    font-size: 14px;
+    color: #999;
+    margin-top: 50px;
+  }
+  
